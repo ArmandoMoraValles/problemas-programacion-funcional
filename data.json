@@ -1,0 +1,722 @@
+[
+    {
+        "id": "1",
+        "description": "Jabón para manos",
+        "clasification": "Higiene personal",
+        "quantityInStock": 23,
+        "minQuantity": 5,
+        "maxQuantity": 20,
+        "priceMXN": 119.77
+    },
+    {
+        "id": "2",
+        "description": "Arroz",
+        "clasification": "Alimentos no perecederos",
+        "quantityInStock": 50,
+        "minQuantity": 10,
+        "maxQuantity": 100,
+        "priceMXN": 59.81
+    },
+    {
+        "id": "3",
+        "description": "Manzanas",
+        "clasification": "Alimentos perecederos",
+        "quantityInStock": 15,
+        "minQuantity": 5,
+        "maxQuantity": 30,
+        "priceMXN": 29.85
+    },
+    {
+        "id": "4",
+        "description": "Papel higiénico",
+        "clasification": "Higiene personal",
+        "quantityInStock": 18,
+        "minQuantity": 5,
+        "maxQuantity": 25,
+        "priceMXN": 60.51
+    },
+    {
+        "id": "5",
+        "description": "Pasta de dientes",
+        "clasification": "Higiene personal",
+        "quantityInStock": 28,
+        "minQuantity": 8,
+        "maxQuantity": 35,
+        "priceMXN": 85.91
+    },
+    {
+        "id": "6",
+        "description": "Aceite de oliva",
+        "clasification": "Alimentos no perecederos",
+        "quantityInStock": 40,
+        "minQuantity": 15,
+        "maxQuantity": 60,
+        "priceMXN": 161.6
+    },
+    {
+        "id": "7",
+        "description": "Pollo fresco",
+        "clasification": "Alimentos perecederos",
+        "quantityInStock": 10,
+        "minQuantity": 3,
+        "maxQuantity": 20,
+        "priceMXN": 64.9
+    },
+    {
+        "id": "8",
+        "description": "Shampoo",
+        "clasification": "Higiene personal",
+        "quantityInStock": 30,
+        "minQuantity": 10,
+        "maxQuantity": 40,
+        "priceMXN": 159.6
+    },
+    {
+        "id": "9",
+        "description": "Pan de trigo",
+        "clasification": "Alimentos no perecederos",
+        "quantityInStock": 75,
+        "minQuantity": 20,
+        "maxQuantity": 100,
+        "priceMXN": 55.73
+    },
+    {
+        "id": "10",
+        "description": "Leche",
+        "clasification": "Alimentos perecederos",
+        "quantityInStock": 22,
+        "minQuantity": 7,
+        "maxQuantity": 30,
+        "priceMXN": 123.78
+    },
+    {
+        "id": "11",
+        "description": "Pañuelos de papel",
+        "clasification": "Higiene personal",
+        "quantityInStock": 15,
+        "minQuantity": 5,
+        "maxQuantity": 25,
+        "priceMXN": 25.73
+    },
+    {
+        "id": "12",
+        "description": "Cereal",
+        "clasification": "Alimentos no perecederos",
+        "quantityInStock": 45,
+        "minQuantity": 15,
+        "maxQuantity": 60,
+        "priceMXN": 57.46
+    },
+    {
+        "id": "13",
+        "description": "Pescado fresco",
+        "clasification": "Alimentos perecederos",
+        "quantityInStock": 8,
+        "minQuantity": 3,
+        "maxQuantity": 15,
+        "priceMXN": 139.92
+    },
+    {
+        "id": "14",
+        "description": "Toallas de papel",
+        "clasification": "Higiene personal",
+        "quantityInStock": 25,
+        "minQuantity": 8,
+        "maxQuantity": 35,
+        "priceMXN": 62.21
+    },
+    {
+        "id": "15",
+        "description": "Aceite vegetal",
+        "clasification": "Alimentos no perecederos",
+        "quantityInStock": 38,
+        "minQuantity": 12,
+        "maxQuantity": 50,
+        "priceMXN": 132.02
+    },
+    {
+        "id": "16",
+        "description": "Carne de res",
+        "clasification": "Alimentos perecederos",
+        "quantityInStock": 12,
+        "minQuantity": 4,
+        "maxQuantity": 18,
+        "priceMXN": 275.88
+    },
+    {
+        "id": "17",
+        "description": "Cepillo de dientes",
+        "clasification": "Higiene personal",
+        "quantityInStock": 20,
+        "minQuantity": 7,
+        "maxQuantity": 30,
+        "priceMXN": 51.82
+    },
+    {
+        "id": "18",
+        "description": "Harina de trigo",
+        "clasification": "Alimentos no perecederos",
+        "quantityInStock": 60,
+        "minQuantity": 20,
+        "maxQuantity": 90,
+        "priceMXN": 39.6
+    },
+    {
+        "id": "19",
+        "description": "Yogur",
+        "clasification": "Alimentos perecederos",
+        "quantityInStock": 18,
+        "minQuantity": 6,
+        "maxQuantity": 25,
+        "priceMXN": 82.09
+    },
+    {
+        "id": "20",
+        "description": "Desodorante",
+        "clasification": "Higiene personal",
+        "quantityInStock": 32,
+        "minQuantity": 10,
+        "maxQuantity": 45,
+        "priceMXN": 59.81
+    },
+    {
+        "id": "21",
+        "description": "Sopa enlatada",
+        "clasification": "Alimentos no perecederos",
+        "quantityInStock": 42,
+        "minQuantity": 15,
+        "maxQuantity": 60,
+        "priceMXN": 29.31
+    },
+    {
+        "id": "22",
+        "description": "Frutas frescas",
+        "clasification": "Alimentos perecederos",
+        "quantityInStock": 14,
+        "minQuantity": 5,
+        "maxQuantity": 20,
+        "priceMXN": 84.61
+    },
+    {
+        "id": "23",
+        "description": "Cuchillas de afeitar",
+        "clasification": "Higiene personal",
+        "quantityInStock": 28,
+        "minQuantity": 8,
+        "maxQuantity": 40,
+        "priceMXN": 139.92
+    },
+    {
+        "id": "24",
+        "description": "Pasta",
+        "clasification": "Alimentos no perecederos",
+        "quantityInStock": 55,
+        "minQuantity": 18,
+        "maxQuantity": 70,
+        "priceMXN": 67.73
+    },
+    {
+        "id": "25",
+        "description": "Huevos",
+        "clasification": "Alimentos perecederos",
+        "quantityInStock": 17,
+        "minQuantity": 6,
+        "maxQuantity": 25,
+        "priceMXN": 119.76
+    },
+    {
+        "id": "26",
+        "description": "Champú",
+        "clasification": "Higiene personal",
+        "quantityInStock": 24,
+        "minQuantity": 8,
+        "maxQuantity": 35,
+        "priceMXN": 99.81
+    },
+    {
+        "id": "27",
+        "description": "Café",
+        "clasification": "Alimentos no perecederos",
+        "quantityInStock": 48,
+        "minQuantity": 16,
+        "maxQuantity": 70,
+        "priceMXN": 185.79
+    },
+    {
+        "id": "28",
+        "description": "Mantequilla",
+        "clasification": "Alimentos perecederos",
+        "quantityInStock": 11,
+        "minQuantity": 4,
+        "maxQuantity": 18,
+        "priceMXN": 109.29
+    },
+    {
+        "id": "29",
+        "description": "Cepillo de pelo grande",
+        "clasification": "Higiene personal",
+        "quantityInStock": 22,
+        "minQuantity": 7,
+        "maxQuantity": 30,
+        "priceMXN": 35.69
+    },
+    {
+        "id": "30",
+        "description": "Puré de patatas",
+        "clasification": "Alimentos no perecederos",
+        "quantityInStock": 50,
+        "minQuantity": 15,
+        "maxQuantity": 70,
+        "priceMXN": 15.99
+    },
+    {
+        "id": "31",
+        "description": "Queso",
+        "clasification": "Alimentos perecederos",
+        "quantityInStock": 14,
+        "minQuantity": 5,
+        "maxQuantity": 20,
+        "priceMXN": 209.99
+    },
+    {
+        "id": "32",
+        "description": "Jabón para la ducha",
+        "clasification": "Higiene personal",
+        "quantityInStock": 30,
+        "minQuantity": 10,
+        "maxQuantity": 45,
+        "priceMXN": 129.9
+    },
+    {
+        "id": "33",
+        "description": "Azúcar",
+        "clasification": "Alimentos no perecederos",
+        "quantityInStock": 40,
+        "minQuantity": 15,
+        "maxQuantity": 60,
+        "priceMXN": 59.59
+    },
+    {
+        "id": "34",
+        "description": "Pescado enlatado",
+        "clasification": "Alimentos no perecederos",
+        "quantityInStock": 25,
+        "minQuantity": 8,
+        "maxQuantity": 35,
+        "priceMXN": 93.79
+    },
+    {
+        "id": "35",
+        "description": "Yogur de fresa",
+        "clasification": "Alimentos perecederos",
+        "quantityInStock": 18,
+        "minQuantity": 6,
+        "maxQuantity": 25,
+        "priceMXN": 59.99
+    },
+    {
+        "id": "36",
+        "description": "Crema de afeitar",
+        "clasification": "Higiene personal",
+        "quantityInStock": 28,
+        "minQuantity": 8,
+        "maxQuantity": 40,
+        "priceMXN": 89.99
+    },
+    {
+        "id": "37",
+        "description": "Aceitunas enlatadas",
+        "clasification": "Alimentos no perecederos",
+        "quantityInStock": 42,
+        "minQuantity": 15,
+        "maxQuantity": 60,
+        "priceMXN": 99.99
+    },
+    {
+        "id": "38",
+        "description": "Carne de cerdo",
+        "clasification": "Alimentos perecederos",
+        "quantityInStock": 10,
+        "minQuantity": 3,
+        "maxQuantity": 20,
+        "priceMXN": 189.99
+    },
+    {
+        "id": "39",
+        "description": "Cepillo de uñas",
+        "clasification": "Higiene personal",
+        "quantityInStock": 20,
+        "minQuantity": 7,
+        "maxQuantity": 30,
+        "priceMXN": 39.99
+    },
+    {
+        "id": "40",
+        "description": "Pan integral",
+        "clasification": "Alimentos no perecederos",
+        "quantityInStock": 75,
+        "minQuantity": 20,
+        "maxQuantity": 100,
+        "priceMXN": 49.99
+    },
+    {
+        "id": "41",
+        "description": "Jabón de baño",
+        "clasification": "Higiene personal",
+        "quantityInStock": 26,
+        "minQuantity": 9,
+        "maxQuantity": 35,
+        "priceMXN": 79.99
+    },
+    {
+        "id": "42",
+        "description": "Gel de ducha",
+        "clasification": "Higiene personal",
+        "quantityInStock": 26,
+        "minQuantity": 9,
+        "maxQuantity": 35,
+        "priceMXN": 54.99
+    },
+    {
+        "id": "43",
+        "description": "Pasta de tomate enlatada",
+        "clasification": "Alimentos no perecederos",
+        "quantityInStock": 30,
+        "minQuantity": 10,
+        "maxQuantity": 45,
+        "priceMXN": 22.99
+    },
+    {
+        "id": "44",
+        "description": "Mango",
+        "clasification": "Alimentos perecederos",
+        "quantityInStock": 12,
+        "minQuantity": 4,
+        "maxQuantity": 18,
+        "priceMXN": 31.99
+    },
+    {
+        "id": "45",
+        "description": "Bálsamo labial",
+        "clasification": "Higiene personal",
+        "quantityInStock": 15,
+        "minQuantity": 5,
+        "maxQuantity": 25,
+        "priceMXN": 45.99
+    },
+    {
+        "id": "46",
+        "description": "Café instantáneo",
+        "clasification": "Alimentos no perecederos",
+        "quantityInStock": 36,
+        "minQuantity": 12,
+        "maxQuantity": 60,
+        "priceMXN": 72.99
+    },
+    {
+        "id": "47",
+        "description": "Champú para niños",
+        "clasification": "Higiene personal",
+        "quantityInStock": 22,
+        "minQuantity": 8,
+        "maxQuantity": 35,
+        "priceMXN": 45.99
+    },
+    {
+        "id": "48",
+        "description": "Sopa enlatada de pollo",
+        "clasification": "Alimentos no perecederos",
+        "quantityInStock": 40,
+        "minQuantity": 15,
+        "maxQuantity": 60,
+        "priceMXN": 29.99
+    },
+    {
+        "id": "49",
+        "description": "Piña",
+        "clasification": "Alimentos perecederos",
+        "quantityInStock": 16,
+        "minQuantity": 5,
+        "maxQuantity": 20,
+        "priceMXN": 39.99
+    },
+    {
+        "id": "50",
+        "description": "Gel de baño",
+        "clasification": "Higiene personal",
+        "quantityInStock": 28,
+        "minQuantity": 8,
+        "maxQuantity": 40,
+        "priceMXN": 59.99
+    },
+    {
+        "id": "51",
+        "description": "Harina de maíz",
+        "clasification": "Alimentos no perecederos",
+        "quantityInStock": 55,
+        "minQuantity": 18,
+        "maxQuantity": 70,
+        "priceMXN": 27.99
+    },
+    {
+        "id": "52",
+        "description": "Mantequilla de cacahuate",
+        "clasification": "Alimentos no perecederos",
+        "quantityInStock": 30,
+        "minQuantity": 10,
+        "maxQuantity": 45,
+        "priceMXN": 44.99
+    },
+    {
+        "id": "53",
+        "description": "Queso cheddar",
+        "clasification": "Alimentos perecederos",
+        "quantityInStock": 14,
+        "minQuantity": 5,
+        "maxQuantity": 20,
+        "priceMXN": 79.99
+    },
+    {
+        "id": "54",
+        "description": "Desodorante en spray",
+        "clasification": "Higiene personal",
+        "quantityInStock": 32,
+        "minQuantity": 10,
+        "maxQuantity": 45,
+        "priceMXN": 52.99
+    },
+    {
+        "id": "55",
+        "description": "Salsa de tomate",
+        "clasification": "Alimentos no perecederos",
+        "quantityInStock": 42,
+        "minQuantity": 15,
+        "maxQuantity": 60,
+        "priceMXN": 19.99
+    },
+    {
+        "id": "56",
+        "description": "Mantequilla de almendra",
+        "clasification": "Alimentos no perecederos",
+        "quantityInStock": 25,
+        "minQuantity": 8,
+        "maxQuantity": 35,
+        "priceMXN": 62.99
+    },
+    {
+        "id": "57",
+        "description": "Yogur de vainilla",
+        "clasification": "Alimentos perecederos",
+        "quantityInStock": 18,
+        "minQuantity": 6,
+        "maxQuantity": 25,
+        "priceMXN": 54.99
+    },
+    {
+        "id": "58",
+        "description": "Jabón líquido",
+        "clasification": "Higiene personal",
+        "quantityInStock": 26,
+        "minQuantity": 9,
+        "maxQuantity": 35,
+        "priceMXN": 47.99
+    },
+    {
+        "id": "59",
+        "description": "Lechuga",
+        "clasification": "Alimentos perecederos",
+        "quantityInStock": 20,
+        "minQuantity": 7,
+        "maxQuantity": 30,
+        "priceMXN": 22.99
+    },
+    {
+        "id": "60",
+        "description": "Salsa de soja",
+        "clasification": "Alimentos no perecederos",
+        "quantityInStock": 38,
+        "minQuantity": 12,
+        "maxQuantity": 50,
+        "priceMXN": 34.99
+    },
+    {
+        "id": "61",
+        "description": "Crema hidratante",
+        "clasification": "Higiene personal",
+        "quantityInStock": 20,
+        "minQuantity": 7,
+        "maxQuantity": 30,
+        "priceMXN": 74.99
+    },
+    {
+        "id": "62",
+        "description": "Frijoles enlatados",
+        "clasification": "Alimentos no perecederos",
+        "quantityInStock": 35,
+        "minQuantity": 12,
+        "maxQuantity": 50,
+        "priceMXN": 24.99
+    },
+    {
+        "id": "63",
+        "description": "Manzanas verdes",
+        "clasification": "Alimentos perecederos",
+        "quantityInStock": 12,
+        "minQuantity": 4,
+        "maxQuantity": 18,
+        "priceMXN": 34.99
+    },
+    {
+        "id": "64",
+        "description": "Cepillo de dientes eléctrico",
+        "clasification": "Higiene personal",
+        "quantityInStock": 28,
+        "minQuantity": 8,
+        "maxQuantity": 40,
+        "priceMXN": 99.99
+    },
+    {
+        "id": "65",
+        "description": "Fideos de trigo",
+        "clasification": "Alimentos no perecederos",
+        "quantityInStock": 55,
+        "minQuantity": 18,
+        "maxQuantity": 70,
+        "priceMXN": 17.99
+    },
+    {
+        "id": "66",
+        "description": "Yogur de fresa y plátano",
+        "clasification": "Alimentos perecederos",
+        "quantityInStock": 18,
+        "minQuantity": 6,
+        "maxQuantity": 25,
+        "priceMXN": 56.99
+    },
+    {
+        "id": "67",
+        "description": "Papel de aluminio",
+        "clasification": "Higiene personal",
+        "quantityInStock": 30,
+        "minQuantity": 10,
+        "maxQuantity": 45,
+        "priceMXN": 41.99
+    },
+    {
+        "id": "68",
+        "description": "Pimientos rojos",
+        "clasification": "Alimentos perecederos",
+        "quantityInStock": 14,
+        "minQuantity": 5,
+        "maxQuantity": 20,
+        "priceMXN": 26.99
+    },
+    {
+        "id": "69",
+        "description": "Gel de ducha exfoliante",
+        "clasification": "Higiene personal",
+        "quantityInStock": 26,
+        "minQuantity": 9,
+        "maxQuantity": 35,
+        "priceMXN": 49.99
+    },
+    {
+        "id": "70",
+        "description": "Miel de abeja",
+        "clasification": "Alimentos no perecederos",
+        "quantityInStock": 40,
+        "minQuantity": 15,
+        "maxQuantity": 60,
+        "priceMXN": 36.99
+    },
+    {
+        "id": "71",
+        "description": "Carne de pavo",
+        "clasification": "Alimentos perecederos",
+        "quantityInStock": 10,
+        "minQuantity": 3,
+        "maxQuantity": 20,
+        "priceMXN": 89.99
+    },
+    {
+        "id": "72",
+        "description": "Cepillo de dientes para niños",
+        "clasification": "Higiene personal",
+        "quantityInStock": 20,
+        "minQuantity": 7,
+        "maxQuantity": 30,
+        "priceMXN": 12.99
+    },
+    {
+        "id": "73",
+        "description": "Arroz integral",
+        "clasification": "Alimentos no perecederos",
+        "quantityInStock": 36,
+        "minQuantity": 12,
+        "maxQuantity": 60,
+        "priceMXN": 32.99
+    },
+    {
+        "id": "74",
+        "description": "Pasta de cacahuate",
+        "clasification": "Alimentos no perecederos",
+        "quantityInStock": 35,
+        "minQuantity": 12,
+        "maxQuantity": 50,
+        "priceMXN": 38.99
+    },
+    {
+        "id": "75",
+        "description": "Shampoo para niños",
+        "clasification": "Higiene personal",
+        "quantityInStock": 28,
+        "minQuantity": 8,
+        "maxQuantity": 40,
+        "priceMXN": 46.99
+    },
+    {
+        "id": "76",
+        "description": "Mantequilla de maní",
+        "clasification": "Alimentos no perecederos",
+        "quantityInStock": 34,
+        "minQuantity": 12,
+        "maxQuantity": 50,
+        "priceMXN": 29.99
+    },
+    {
+        "id": "77",
+        "description": "Queso suizo",
+        "clasification": "Alimentos perecederos",
+        "quantityInStock": 12,
+        "minQuantity": 4,
+        "maxQuantity": 18,
+        "priceMXN": 69.99
+    },
+    {
+        "id": "78",
+        "description": "Papel de seda",
+        "clasification": "Higiene personal",
+        "quantityInStock": 30,
+        "minQuantity": 10,
+        "maxQuantity": 45,
+        "priceMXN": 19.99
+    },
+    {
+        "id": "79",
+        "description": "Salsa de barbacoa",
+        "clasification": "Alimentos no perecederos",
+        "quantityInStock": 38,
+        "minQuantity": 12,
+        "maxQuantity": 50,
+        "priceMXN": 24.99
+    },
+    {
+        "id": "80",
+        "description": "Pollo congelado",
+        "clasification": "Alimentos perecederos",
+        "quantityInStock": 16,
+        "minQuantity": 5,
+        "maxQuantity": 20,
+        "priceMXN": 59.99
+    }
+]
